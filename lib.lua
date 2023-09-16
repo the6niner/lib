@@ -1,1 +1,2 @@
-return("hi","d","zelix_3")
+local d = {"craz","jab","dig"}
+return d
