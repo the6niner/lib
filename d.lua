@@ -1,3 +1,3 @@
-local a = {"zelix_3"}
+local a = {"zelix_3","thedragonslayeralt17"}
 
 return a
